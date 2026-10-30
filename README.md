@@ -1,6 +1,6 @@
 # portfolio-vs-sp500-benchmarking
 Quantitative risk-return analysis of a custom asset portfolio and benchmarking against the S&P 500 using Python.
-
+[🚀 Open interactive visualization](risk_return(SR)_interactive.html)
 ## Quick Start
 
 ```bash
